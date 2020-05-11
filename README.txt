@@ -85,7 +85,7 @@ train_set=train
 test_sets="test" (這邊要更改)
 gmm=tri5a
 ------------------------------------------------------------------------------------------------------------------------
-local/chain/run_tdnn.sh
+local/chain/run_tdnn.sh :
 # training options
 num_epochs=6
 initial_effective_lrate=0.00025
